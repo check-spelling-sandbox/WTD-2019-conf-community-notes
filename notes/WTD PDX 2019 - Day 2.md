@@ -137,7 +137,7 @@ tags: [WTD]
 - Shifted to open source, used open source tools: simple markup > PRs for reviews > Agile > deploy w/ CI/CD
 - Docs-as-code!
 - Recapping some of 2017 talk she gave on docs-as-code
-- 2015 presentations referenced: Github using Github to Document Github and Google talk from Riona (this year)
+- 2015 presentations referenced: GitHub using GitHub to Document GitHub and Google talk from Riona (this year)
 - Helping others enjoy and succeed in this docs project got others in the company to promote and properly represent the content. Advocates! When starting, you may have to be the sole, relentless advocate and shepherd the fledgling product until it is self-sustaining.
 - Be consistent in your messaging. Don't overpromise to the point of losing credibility and seeming inconsistent. Inconsistency breeds vulnerability and needing to defend your project and having misrepresenting comments used against you.
 - Be patient, as the biggest changes take the longest time.
