@@ -55,7 +55,7 @@ tags: [WTD]
 - Leadership cares about impact, duplication of effort, impact on you
 - Leaders care if you rewrite/redo/duplicate; if training is a cost center; reducing silos
 - Prevention-focused (TW) vs. Promotion-focused (everyone else, those who are lauded); leaders care because when we aren't recognized.
-- **Format shown is Exec Summary (primary focus here for skimmers) >> SWOT >> Biz Description (where we've been and how request tells us where we're going) >> Marketing strategy (how it will deployed and marketed so there's interest and excitement) >> Operations Overview >> Product Plan >> Financial Plan**
+- **Format shown is Exec Summary (primary focus here for skimmers) >> SWOT >> Biz Description (where we've been and how request tells us where we're going) >> Marketing strategy (how it will be deployed and marketed so there's interest and excitement) >> Operations Overview >> Product Plan >> Financial Plan**
 - To align w/ biz leaders, be very connected to biz plan and company goals (from the board level down to our quarterly goals)
 - Know your elevator pitch to hammer in on the why
 - Also know your USP
