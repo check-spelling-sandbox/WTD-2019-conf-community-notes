@@ -112,7 +112,7 @@ tags: [WTD]
 - Benefits @ Netlify -> leadership support, docs generally valued in the org, good communication (being remote, distributed, diff timezones)
 - Lessons:
   - Devs can feel guilty about not coding "enough," not being sure where to start, etc.
-  - Document the process to GET to DDD. It'll help jumpstart the model.
+  - Document the process to GET to DDD. It'll help jump start the model.
   - Project templates created in KMS have required artifacts (user stories, being sure to name all the features, API workflow, customer docs, etc.)
   - Create scaffolding for when writing is hard --> doc templates given for structure and guidance; tips; examples
   - Try diagrams, other non-written content modalities
