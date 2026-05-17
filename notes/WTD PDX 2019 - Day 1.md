@@ -69,7 +69,7 @@ tags: [WTD]
   - Editing =/= being technically proficient in every product you touch. It is collaborative and improving the outcome for your doc audience.
   - Anecdote of a doc review, title was not clear, she didn't know the details, but then reviewed the content and realized it was about a task and then asked WHY that task was beneficial; the edit was to make it a task and explained that the task improved performance
 - (3) Use objectivity. Usability testing, readability tests, picking a style standard, things to give evidence to "why" change is a good one
-  - Readbility tests... intros Flesch Kincaid > example of a paragraph that was a 24 on FK (so, beyond college grad) and then bringing it down to 9th grade level
+  - Readability tests... intros Flesch Kincaid > example of a paragraph that was a 24 on FK (so, beyond college grad) and then bringing it down to 9th grade level
   - Readability programs: readbility.io, Hemingway, etc.
   - Style guides ... google, MS, etc.
   - Global English, minimalism, DITA guidelines (add. resources)
@@ -161,7 +161,7 @@ tags: [WTD]
 - For pop-up content: allow skimming; track eye movements (think of the flow of each tooltip)
 - Don't interrupt users (ie waiting until they hit the submit button on an important task to give best practices than popping up in the middle of their workflow/pissing them off)
 - Give users an out (ie generating a PDF option for those who don't want to go thru the tooltip flow)
-- Give second chances -- a banner about an update was closed, then enable reeopening/reminder/icon to see that info they probably closed without looking (like update notifications being ignored and closed)
+- Give second chances -- a banner about an update was closed, then enable reopening/reminder/icon to see that info they probably closed without looking (like update notifications being ignored and closed)
 - Be aware of massive amount of pop-ups and tooltips.
   - Keep a cal -- example of a basic Jira board and when tooltips are appearing on a schedule
   - Disable old messages (not repeating the content)
