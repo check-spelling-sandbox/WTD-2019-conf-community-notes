@@ -94,7 +94,7 @@ tags: [WTD]
   - If have to create, then think about how to create and where it will live.
 - Teaching comes into play early in docs, the introduction -- giving context and essential definitions; define why; how
 - Example of a Digitalocean doc >>> Define > Justify > Outline
-- Focus on "understanding" over "coverage" (another teaching methodology, K-12) *Understanding by Design*; students don't do well when required to memorize. Encouraging autonomy in students to learn without being dicatated to.
+- Focus on "understanding" over "coverage" (another teaching methodology, K-12) *Understanding by Design*; students don't do well when required to memorize. Encouraging autonomy in students to learn without being dictated to.
 - Do "concept" definitions belong in complex content?
 - Explain general principles where possible
 - References different context
